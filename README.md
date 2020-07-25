@@ -9,3 +9,6 @@ eth0 or wlan0
 
 check gateway 
 `sudo route -n`
+
+edit conf file
+`sudo nano /etc/dhcpcd.conf`
