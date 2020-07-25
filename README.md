@@ -15,6 +15,7 @@ edit conf file
 
 write 
 `
+interface eth0
 static ip_address= 192.168.0.200
 static routers= 192.168.0.1
 static domain_name_servers= 8.8.8.8 8.8.8.4
